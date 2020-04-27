@@ -1,20 +1,15 @@
 # skeleton
 
-Create Spring Boot Project
-Spring Boot project skeleton that can run alone , in servlet container...
+### Create Spring Boot Project
+	Spring Boot project skeleton that can run alone , in servlet container...
 
-Getting Started
-
+### Getting Started
     Clone this repository: 
-    
-        git@github.com:habogay/skeleton.git
+        [Spring Boot Project](git@github.com:habogay/skeleton.git)
 
-Prerequisites
+### Prerequisites
+    - Jdk 8+
+    - Maven or maven wrapper
 
-    Jdk 8+
-    
-    Maven or maven wrapper
-
-Run
-
+### Run
     mvn clean package spring-boot:run
